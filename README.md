@@ -4,8 +4,8 @@ Colorado School of Mines
 Summer 2026
 
 ## Contributors
-Lillian Hanson
-Benjamin Koller
-Alex Larner
-Aucklynn Sacco
-Zach Shallenberger
+Lillian Hanson  
+Benjamin Koller  
+Alex Larner  
+Aucklynn Sacco  
+Zach Shallenberger  
