@@ -1,0 +1,21 @@
+# Line properties
+lines.linewidth : 2.5
+lines.markersize : 8
+
+# Font properties
+font.family : sans-serif
+font.size : 12.0
+
+# Axes configuration
+axes.grid : True
+axes.titlesize : 12
+axes.labelsize : 10
+
+# Grid layout
+grid.color : CBCBCB
+grid.linestyle : --
+grid.linewidth : 1.0
+
+# Figure size and background
+figure.figsize : 8, 5
+figure.facecolor : white
