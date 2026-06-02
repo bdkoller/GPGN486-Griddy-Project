@@ -18,4 +18,4 @@ grid.linewidth : 1.0
 
 # Figure size and background
 figure.figsize : 8, 5
-figure.facecolor : white
+figure.facecolor : lightgrey
