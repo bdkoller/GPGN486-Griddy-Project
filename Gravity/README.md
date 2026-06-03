@@ -7,17 +7,18 @@ From this I went and plotted the data on a map, showing visually where the data 
 
 Interpretations from the plot: 
 
-**N end:** 
-- Survey starts where Yampa Valley is narrow 
-- Highr gravuty suggests denser bedrock is shallow (could be Cretaceous sedimentary rock close to the surface - makes sense with Dr. Bobs lecture) 
-- River has not yet deposited thick low-density sediment 
-
-**Southward:** 
-- there is a rapid decrease in density 
-- This could be because gravity drops as valley alluvium thickens (unconsolidated gravels and sands have a much lower density than redrock) 
-
+**N end:**
+- Survey starts where Yampa Valley is narrow
+- Higher gravity suggests denser bedrock is shallow (could be Cretaceous sedimentary rock close to the surface - makes sense with Dr. Bobs lecture)
+- River has not yet deposited thick low-density sediment
+**Going Southward:**
+- there is a rapid decrease in density
+- This could be because gravity drops as valley alluvium thickens (unconsolidated gravels and sands have a much lower density than bedrock)
+**Bump in middle:** 
+- From 1920 CGS bulletin, there is alternating anticlines and synclines filled with Mancos Shale 
+- This denser material likely correlates with an anticlinal crest where folding has brought denser Mesaverde Group sandstones closer to the surface, thinning the overlying Mancos Shale 
 **Southend:**
-- Lowest gravity observed 
--  This either suggests the deepest basin fill or into less dense Mesozoic shales
-- Could maye suggest a faily zone which runs E-W in this area
+- Lowest gravity observed
+- This either suggests the deepest basin fill or into less dense Mancos shales
+- Could maybe suggest a fault zone which runs E-W in this area
 
