@@ -12,3 +12,7 @@ Zach Shallenberger
 
 ## Resources
 Bob Basker (303 960 7078) [Email](mailto:basker19@hotmail.com)
+
+## Naming for files
+Seis01 - Zach Shallenberger
+Seis02 - Ben Koller
