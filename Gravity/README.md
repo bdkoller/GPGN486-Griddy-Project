@@ -6,7 +6,8 @@ In the .ipynb I corrected the 2022 gravity data for drift, elevation, and tidal 
 From this I went and plotted the data on a map, showing visually where the data was taken (**NOTE:** We do not have a .csv file of the actual lattitude and longitude, so the dots are placed based on the start of CO HW 131 and are placed every 200 m based on the groups README) 
 
 Interpretations from the plot: 
-N end: 
+
+**N end:** 
 - Survey starts where Yampa Valley is narrow 
 - Highr gravuty suggests denser bedrock is shallow (could be Cretaceous sedimentary rock close to the surface - makes sense with Dr. Bobs lecture) 
 - River has not yet deposited thick low-density sediment 
